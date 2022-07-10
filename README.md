@@ -3,7 +3,7 @@
 
 Your website must meet the following requirements:
 
-<p>
+<h6>
 -Your website should have at least three pages: one for regular Google Search (which must be called index.html), one for Google Image Search, and one for Google Advanced Search.<br>
 -On the Google Search page, there should be links in the upper-right of the page to go to Image Search or Advanced Search. On each of the other two pages, there should be a link in the upper-right to go back to Google Search.<br>
 -On the Google Search page, the user should be able to type in a query, click “Google Search”, and be taken to the Google search results for that page.<br>
@@ -20,4 +20,4 @@ Your website must meet the following requirements:
 -Add an “I’m Feeling Lucky” button to the main Google Search page. Consistent with Google’s own behavior, clicking this link should take users directly to the first -Google search result for the query, bypassing the normal results page.<br>
 -You may encounter a redirect notice when using the “I’m Feeling Lucky” button. Not to worry! This is an expected consequence of a security feature implemented by Google.<br>
 -The CSS you write should resemble Google’s own aesthetics.<br>
-<p>
+<h6>
