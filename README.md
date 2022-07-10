@@ -1,7 +1,8 @@
 # Projeto Google Search - CS50 Web Programming 👩🏻‍💻
-<h2>Task: to design a front-end for Google Search, Google Image Search, and Google Advanced Search.<h2>
 
-Your website must meet the following requirements:
+Task: to design a front-end for Google Search, Google Image Search, and Google Advanced Search.
+
+<h4>Your website must meet the following requirements:<h4>
 
 <h5>
 -Your website should have at least three pages: one for regular Google Search (which must be called index.html), one for Google Image Search, and one for Google Advanced Search.<br><br>
