@@ -1,0 +1,202 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    height: 100vh;
+    overflow-y: hidden
+}
+
+.links{
+    text-align: right;
+    padding: 10px 20px 30px 20px;
+}
+
+.links h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(199, 0, 0);
+    margin: 30px;
+    text-align: left;
+}
+
+a{
+    margin-left: 20px;
+    font-size: 12px;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 280px;
+}
+
+#micro{
+    width: 16px;
+}
+
+form{
+    margin: 20px;
+    text-align: center;
+}
+
+#border{
+    border-radius: 30px;
+    border: 1px solid rgb(216, 216, 216);
+    height: 40px;
+    width: 580px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+#border img{
+    width: 16px;
+    margin: 20px 10px 20px 0px;
+}
+
+#advLogo{
+    display: flex;
+    width: 100px;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin: auto 0px;
+}
+
+input{
+    border: none;
+    height: 38px;
+    width: 500px;
+}
+
+input:focus{
+    outline: none;
+}
+
+#border:hover{
+    box-shadow: 0px 0px 5px rgb(216, 216, 216);
+}
+
+button{
+    display: inline;
+    margin: 20px 5px;
+    height: 40px;
+    width: 150px;
+    background-color: #f8f9fa;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    box-shadow: 0px 1px 5px rgb(212, 212, 212);
+    border: 1px solid rgb(194, 194, 194);
+}
+
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color:rgb(85, 85, 85);
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+footer a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color:rgb(85, 85, 85);
+    margin-left: 5px;
+}
+
+
+
+.adv-search-con {
+    margin: 10px 50px;
+  }
+  .adv-search-con label {
+    display: inline-block;
+    width: 16%;
+    font-size: 20px;
+  }
+  .adv-search-con .whitespace {
+    display: inline-block;
+    width: 50%;
+  }
+  .adv-search-con .form-group {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    padding: 10px 0;
+
+  }
+  .adv-search-con .form-group label {
+    width: 16%;
+    font-size: 14px;
+  }
+  .adv-search-con .form-group input[type=text] {
+    width: 49%;
+    padding: 2px 0;
+    border: 1px solid lightgray;
+  }
+  .adv-search-con .form-group .clarification {
+    font-size: 11px;
+    width: 30%;
+    margin-left: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+  }
+  .adv-search-con .form-group .clarification .monospace {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+  }
+  .adv-search-con .form-group .right-align {
+    width: 50%;
+  }
+
+  .blue-button{
+    width: 200px;
+    color: white;
+    font-weight: 600;
+    background-color: rgb(72, 136, 255);
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-left: 385px;
+  }
+
+  #footerAdv{
+    padding-bottom: 20px;
+  }
+
+
+  .bodyAdv{
+    overflow: auto;
+  }
+
+
+
+@media(max-width: 900px){
+    .links{
+        padding-left: 0px;
+    }
+
+    #border{
+        max-width: 280px;
+    }
+
+    input{
+        max-width: 200px;
+    }
+}
+
+
