@@ -22,3 +22,6 @@
 -You may encounter a redirect notice when using the “I’m Feeling Lucky” button. Not to worry! This is an expected consequence of a security feature implemented by Google.<br><br>
 -The CSS you write should resemble Google’s own aesthetics.<br>
 <h5>
+
+Link: https://gabriellafreitws.github.io/projeto-google-search/
+
