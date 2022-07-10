@@ -1,6 +1,6 @@
 # Projeto Google Search - CS50 Web Programming 👩🏻‍💻
 
-Task: to design a front-end for Google Search, Google Image Search, and Google Advanced Search.
+<h3>Task: to design a front-end for Google Search, Google Image Search, and Google Advanced Search.<h3>
 
 <h4>Your website must meet the following requirements:<h4>
 
