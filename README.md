@@ -1,4 +1,4 @@
-# Projeto Google Search - CS50 Web Programming 👩🏻‍💻
+# ✨ PROJETO GOOGLE SEARCH CS50 WEB PROGRAMMING ✨
 
 <h3>Task: to design a front-end for Google Search, Google Image Search, and Google Advanced Search.<h3>
 
@@ -23,5 +23,5 @@
 -The CSS you write should resemble Google’s own aesthetics.<br>
 <h5>
 
-Link: https://gabriellafreitws.github.io/projeto-google-search/
+**Link para vialuzação: https://gabriellafreitws.github.io/projeto-google-search/ 💗**
 
