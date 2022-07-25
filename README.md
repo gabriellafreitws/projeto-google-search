@@ -23,5 +23,5 @@
 -The CSS you write should resemble Google’s own aesthetics.<br>
 <h5>
 
-**Link para vialuzação: https://gabriellafreitws.github.io/projeto-google-search/ 💗**
+**Link para visualização: https://gabriellafreitws.github.io/projeto-google-search/ 💗**
 
